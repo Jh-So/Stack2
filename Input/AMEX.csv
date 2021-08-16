@@ -1,0 +1,305 @@
+Number,Ticker,KoreanTicker
+1,LNG,셰니어 에너지
+2,CQP,셰니어 에너지 파트너스
+3,IMO,임페리얼 오일
+4,CBOE,Cboe 글로벌 마켓
+5,SEB,씨보드
+6,PHYS,Sprott Physical Gold Trust
+7,BTG,B2골드
+8,SIM,그루포 시멕 ADR
+9,CEF,스프롯 피지컬 골드 트러스트 & 실버 트러스트
+10,PSLV,Sprott Physical Silver Trust
+11,GSAT,글로벌스타
+12,NG,노바골드 리소시스
+13,UTG,Reaves Utility Income Fund
+14,PRK,파크 내셔널
+15,NXE,넥스젠 에너지
+16,EQX,이퀴녹스 골드
+17,MAG,MAG 실버
+18,EVV,이튼 밴스 리미티드 듀레이션 인컴 펀드
+19,SENS,센서닉스 홀딩스
+20,TMP,톰킨스 파이낸셜
+21,NOG,노던 오일 & 가스
+22,NHC,내셔널 헬스케어
+23,SILV,실버크레스트 메탈스
+24,SLI,스탠다드 리튬
+25,CET,Central Securities Corp
+26,CCF,체이스
+27,FAX,애버딘 아시아-퍼시픽 인컴 펀드
+28,EIM,Eaton Vance Municipal Bond Fund
+29,CLM,코너스톤 스트래티직 밸류 펀드
+30,ORLA,Orla Mining Ltd
+31,DNN,데니슨 마인스
+32,NGD,뉴 골드
+33,UUUU,에너지 퓨얼스
+34,SVM,실버코프 메탈스
+35,MCF,콘탱고 오일 & 가스
+36,MMX,매버릭스 메탈
+37,GGN,GAMCO 글로벌 골드 내추럴 리소스 & 인컴 트러스트
+38,XXII,22세기 그룹
+39,ASXC,에이센서스 서지컬
+40,VKI,Invesco Advantage Municipal Income Trust II
+41,NEWP,뉴 퍼시픽 메탈스
+42,EAD,Wells Fargo Income Opportunities Fund
+43,STXS,스테레오택시스
+44,FSP,프랭클린 스트리트 프로퍼티스
+45,BTX,브루클린 이뮤노테라퓨틱스
+46,ZOM,조메디카 파마슈티컬
+47,UEC,우라늄 에너지
+48,TGB,타세코 마인스
+49,CRF,Cornerstone Total Return Fund Inc
+50,KLR,칼레이라
+51,AEF,애버딘 이머징마켓 이쿼티 인컴 펀드
+52,LCTX,리니지 셀 테라퓨틱스
+53,BHB,바 하버 뱅크셰어스
+54,RVP,리트랙터블 테크놀로지스
+55,SMTS,시에라 메탈스
+56,GLO,클러프 글로벌 오퍼튜니티 펀드
+57,CVM,셀 사이
+58,REPX,라일리 익스플로레이션 퍼미안
+59,ERC,Wells Fargo Multi-Sector Income Fund
+60,ELLO,엘로메이 캐피털
+61,UAVS,에이지이글 에어리얼 시스템
+62,CYBN,싸이빈
+63,EVI,EVI 인더스트리
+64,LEU,센트러스 에너지 Class A
+65,MTA,메탈라 로열티 & 스트리밍
+66,ANVS,애노비스 바이오
+67,PLM,폴리멧 마이닝
+68,BRBS,블루 리지 뱅크셰어스
+69,BRG,블루록 레지덴셜 그로스 리츠
+70,RLGT,레이디언트 로지스틱스
+71,FTSI,FTS 인터내셔널
+72,INFU,인퓨시스템즈 홀딩스
+73,NBH,Neuberger Berman Municipal Fund Inc
+74,EVM,Eaton Vance California Municipal Bond Fund
+75,GOED,1847 Goedeker Inc
+76,AMPE,앰피오 파마슈티컬스
+77,TMQ,트릴로지 메탈
+78,FTF,Franklin Limited Duration Income Trust
+79,CIX,콤프X 인터내셔널 Class A
+80,NML,누버거 버먼 MLP 앤 에너지 인컴 펀드
+81,FEN,퍼스트 트러스트 에너지 인컴 & 그로스 펀드
+82,AXU,알렉스코 리소스
+83,IBIO,아이바이오
+84,DHY,크레딧 스위스 하이일드 본드 펀드
+85,REI,링 에너지
+86,GSS,골든 스타 리소시스
+87,NHS,Neuberger Berman High Yield Strategies Fund
+88,VHAQ,비비온 헬스 애퀴지션
+89,EMX,EMX 로얄티
+90,ESBA,엠파이어 스테이트 리얼티 OP
+91,NRO,누버거 버먼 리얼 에스테이트 시큐리티 인컴 펀드
+92,ZDGE,젯지 Class B
+93,WRN,웨스턴 코퍼 & 골드
+94,ENX,Eaton Vance New York Municipal Bond Fund
+95,DLA,델타 어패럴
+96,URG,유어-에너지
+97,PLG,플래티넘 그룹 메탈스
+98,EVBN,에반스 뱅코프
+99,KULR,KULR 테크놀로지 그룹
+100,GDP,굿리치 페트롤리움
+101,NAK,노던 다이너스티 미네랄스
+102,VHAQ-U,Viveon Health Acquisition Corp
+103,GLQ,Clough Global Equity Fund
+104,GROY,골드 로열티
+105,DMF,Bny Mellon Municipal Income Inc
+106,BATL,바탈리온 오일
+107,GAU,갈리아노 골드
+108,ECF,엘즈워스 그로스 앤드 인컴 펀드
+109,GTE,그랜 티에라 에너지
+110,MHH,메스테크 홀딩스
+111,EMAN,이마진
+112,ID,Parts Id Inc
+113,CIK,Credit Suisse Asset Management Income Fund Inc
+114,GSV,골드 스탠더드 벤처스
+115,LSF,레어드 슈퍼푸드
+116,NEN,뉴 잉글랜드 리얼티 어소시에이트 DEP SHS Class A
+117,GLDG,GoldMining Inc
+118,BCV,뱅크로프트 펀드
+119,GPL,그레이트 팬더 마이닝
+120,VNRX,볼리션RX
+121,LODE,콤스톡 마이닝
+122,THM,인터내셔널 타워 힐 마인스
+123,VMM,Delaware Investments Minnesota Municipal Income Fund Ii Inc
+124,USAS,아메리칸 골드 앤 실버
+125,MTNB,마티나스 바이오팜 홀딩스
+126,IAF,Aberdeen Australia Equity Fund Inc
+127,ITRG,Integra Resources Corp
+128,SPPP,Sprott Physical Platinum and Palladium Trust
+129,NBA,뉴 비기닝스 애퀴지션
+130,WWR,웨스트워터 리소시스
+131,CMCL,칼레도니아 마이닝
+132,GLTA-U,Galata Acquisition Corp
+133,PW,파워 리츠
+134,ADRA,아다라 애퀴지션 Class A
+135,ACU,애크미 유나이티드
+136,EPM,에볼루션 페트롤리엄
+137,DPW,얼트 그로벌 홀딩스
+138,ERH,Wells Fargo Utilities and High Income Fund
+139,ATNM,악티늄 파마슈티컬스
+140,NBA-U,New Beginnings Acquisition Corp
+141,BMTX,BM 테크놀로지스
+142,GORO,골드 리소스
+143,HNW,파이오니아 다이버시파이드 하이 인컴 트러스트
+144,INTT,인테스트
+145,YCBD,cbdMD Inc
+146,PTK,PTK 에퀴지션
+147,CMT,코어 몰딩 테크놀로지스
+148,SACH,새켐 캐피털
+149,WLMS,윌리엄스 인더스트리얼 서비시스 그룹
+150,APT,알파 프로 테크
+151,PCG PR A,퍼시픽 가스 & 일렉트릭 6% Pref Stock
+152,PTK-U,PTK Acquisition Corp- Unit
+153,ELA,엔벨라
+154,GLU,가벨리 글로벌 유틸리티 & 인컴
+155,XTNT,Xtant 메디컬 홀딩스
+156,ADRA-U,Adara Acquisition Corp
+157,AE,아담스 리소스 & 에너지
+158,MLSS,마일스톤 사이언티픽
+159,CHFW,컨소넌스-HFW 애퀴지션 Class A
+160,SNMP,Evolve Transition Infrastructure LP Unit Class B
+161,PHGE,Biomx Inc
+162,VOLT,볼트 인포메이션 사이언스
+163,BTTR,베터 초이스 컴퍼니
+164,PTN,팔라틴 테크놀로지스
+165,CHAQ,샤르단 헬스케어 어퀴지션 2
+166,OPTT,오션 파워 테크놀로지스
+167,UAMY,유나이티드 스테이츠 앤티모니
+168,TRX,탄자니아 골드
+169,HLM PR,힐만 그룹 캐피탈 트러스트 Pref SHS 11-6%
+170,ISDR,이슈어 다이렉트
+171,FURY,Fury Gold Mines Ltd
+172,LOV,스파크 네트웍스 SE ADR
+173,CEV,이튼 밴스 캘리포니아 뮤니스펄 인컴 트러스트
+174,GLV,클러프 글로벌 디비던드 앤 인컴 펀드
+175,ASM,아비노 실버 & 골드 마인스
+176,ELMD,일렉트로메드
+177,ARMP,아마타 파머수티컬스
+178,FRD,프리드먼 인더스트리스
+179,AIM,AIM 이뮤노테크
+180,VGZ,비스타 골드
+181,ISR,아이소레이
+182,DIT,암콘 디스트리뷰팅
+183,INUV,이누보
+184,GGN PR B,GAMCO 글로벌 골드 내추럴 리소스 & 인컴 트러스트 Pref SHS Series B
+185,SBEV,스플래시 베버리지 그룹
+186,CHAQ-U,Chardan Healthcare Acquisition 2 Corp Unit
+187,CHFW-U,Consonance-HFW Acquisition Corp
+188,PED,페데브코
+189,CDOR,콘도 호스피탈리티 트러스트
+190,DSS,다큐먼트 시큐리티 시스템즈
+191,FCO,Aberdeen Global Income Fund Inc
+192,EVY,이튼 밴스 뉴욕 뮤니시펄 인컴 트러스트
+193,IGC,인디아 글로벌리제이션 캐피털
+194,NBW,Neuberger Berman California Municipal Fund Inc
+195,OGEN,오라제닉스
+196,AUMN,골든 미네랄스
+197,TPHS,트리니티 플레이스 홀딩스
+198,TKAT,타쿵 아트
+199,VCF,Delaware Investments Colorado Municipal Income Fund Inc
+200,NTIP,네트워크-1 테크놀로지스
+201,BRG PR D,블루록 레지덴셜 그로스 리츠 Pref SHS Series D
+202,NBO,Neuberger Berman New York Municipal Fund Inc
+203,PLX,프로탈릭스 바이오테라퓨틱스
+204,BTN,밸런타인 스트롱
+205,SYN,신세틱 바이오로직스
+206,VFL,Delaware Investments National Municipal Income Fund
+207,OGCP,엠파이어 스테이트 리얼티 OP
+208,EXN,Excellon Resources Inc
+209,SIF,SIFCO 인더스트리
+210,WYY,와이드포인트
+211,PHGE-U,Biomx Inc Unit
+212,BRG PR C,블루록 레지덴셜 그로스 리츠 Pref SHS Series C
+213,MYO,마이모
+214,AAU,알마덴 미네랄스
+215,JOB,GEE 그룹
+216,LGL,LGL 그룹
+217,PLYM PR A,플리머스 인더스트리얼 리츠 Pref SHS Series A
+218,WTT,와이어리스 텔레콤 그룹
+219,BKTI,BK 테크놀러지
+220,GLU PR B,가벨리 글로벌 유틸리티 & 인컴 Pref SHS Series B
+221,BGI,버크스 그룹
+222,IOR,인컴 오퍼튜니티 리얼티 인베스터
+223,AINC,애시포드
+224,BDL,플래니건스 엔터프라이시스
+225,NAVB,나비디아 바이오파마슈티컬스
+226,GLU PR A,가벨리 글로벌 유틸리티 & 인컴 Pref SHS Series A
+227,AGE,AgeX 테라퓨틱스
+228,ACY,에어로센추리
+229,BWL-A,보울 아메리카
+230,CEI,캠버 에너지
+231,IDW,IDW 미디어 홀딩스 Class B
+232,FSI,플레서블 솔류션 인터네셔널
+233,NNVC,나노바이리사이드스
+234,ITP,IT 테크 패키징
+235,SACH PR A,새이쳄 캐피탈 Pref SHS Series A
+236,HWM PR,하우멧 에어로스페이스 Pref SHS
+237,PCG PR D,퍼시픽 가스 & 일렉트릭 5% 1st Red Pref Stock
+238,OBLG,오블롱
+239,IHT,인스위츠 호스피털리티 트러스트
+240,CVU,CPI 에어로스트럭처스
+241,AIRI,에어 인더스트리스 그룹
+242,ESP,에스페이 매뉴팩쳐링 & 일렉트로닉스
+243,NSPR,인스파이어MD
+244,IMH,임팩 모기지 홀딩스
+245,TMBR,팀버 파마슈티컬
+246,DXR,닥소
+247,FTNW,FTE 네트워크
+248,CPHI,차이나 파머 홀딩스
+249,AMBO,앰보우 에듀케이션 홀딩스 ADR Class A
+250,NES,누베라 인바이런멘털 솔루션스
+251,GRF,Eagle Capital Growth Fund Inc
+252,INDO,인도네시아 에너지 코퍼레이션
+253,MITQ,무빙 이미지 테크놀로지스
+254,XPL,솔리타리오 징크
+255,COHN,코헨 앤 컴퍼니
+256,CANF,캔-파이트 바이오파마 ADR
+257,KIQ,켈소 테크놀로지스
+258,FISK,엠파이어 스테이트 리얼티 OP
+259,PCG PR B,퍼시픽 가스 & 일렉트릭 5 1/2% Pref Stock
+260,DXF,던신 파이낸셜 홀딩즈 ADR
+261,PZG,파라마운트 골드 네바다
+262,ECF PR A,엘즈워스 그로스 앤드 인컴 펀드 Pref SHS Series A
+263,BCV PR A,뱅크로프트 펀드 Pref SHS Series A
+264,NBY,노바베이 파마슈티컬스
+265,AAMC,알티소스 에셋 매니지먼트
+266,PLAG,플래닛 그린 홀딩스
+267,UFAB,유니크 패브리케이팅
+268,MSN,에머슨 라디오
+269,GGO,Gabelli Go Anywhere Trust
+270,CVR,시카고 리벳 & 머신
+271,SVT,서보트로닉스
+272,CTEK,시너지스텍
+273,RMED,라 메디컬 시스템
+274,PCG PR E,퍼시픽 가스 & 일렉트릭 5% 1st A Pref Stock
+275,GBR,뉴 컨셉 에너지
+276,CKX,CKX 랜드
+277,AWX,아발론 홀딩스
+278,SDPI,슈페리어 드릴링 프로덕츠
+279,YCBD PR A,cbdMD Pref SHS 시리즈 A
+280,MXC,멕스코 에너지
+281,PCG PR G,퍼시픽 가스 & 일렉트릭 4-80% 1st Pref Stock
+282,BRN,반웰 인더스트리스
+283,TRT,트리오 테크 인터내셔널
+284,HUSA,휴스턴 아메리칸 에너지
+285,HMG,HMG 커틀랜드 프로퍼티
+286,SSY,썬링크 헬스 시스템즈
+287,RHE PR A,리져널 헬스 프로퍼티 Pref SHS Series A
+288,BDR,블런더 텅 래버러토리스
+289,AMS,아메리칸 셰어드 호스피털 서비스
+290,ENSV,엔서브코
+291,RCG,RENN Fund Inc
+292,UUU,유니버설 시큐리티 인스트러먼츠
+293,RHE,리져널 헬스 프로퍼티
+294,PCG PR H,퍼시픽 가스 & 일렉트릭 4-50% 1st Pref Stock
+295,GGO PR A,가벨리 고 애니웨어 트러스트 Pref SHS Series A
+296,PCG PR C,퍼시픽 가스 & 일렉트릭 5% 1st Pref Stock
+297,PCG PR I,퍼시픽 가스 & 일렉트릭 4-36% 1st Pref Stock
+298,PW PR A,파워 리츠 Pref SHS Series A
+299,IPB,메릴린치 디파지터 6-0518% 인덱스 플러스 트러스트
+300,VHAQ RT,Viveon Health Acquisition Corp
+301,GLQ RT WI,Clough Global Equity Fund
+302,GLV RT WI,Clough Global Dividend and Income Fund
+303,GLO RT WI,Clough Global Opportunities Fund
+304,GLTA,갈라타 애퀴지션 Class A
